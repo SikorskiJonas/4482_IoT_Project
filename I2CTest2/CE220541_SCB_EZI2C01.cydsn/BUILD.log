@@ -1,0 +1,5 @@
+--------------- Build Started: 10/26/2023 18:52:37 Project: CE220541_SCB_EZI2C01, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+cydsfit.exe -.appdatapath "C:\Users\Joris\AppData\Local\Cypress Semiconductor\PSoC Creator\4.4" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p "C:\Users\Joris\OneDrive\Documenten\PSoC Creator\I2CTest2\CE220541_SCB_EZI2C01.cydsn\CE220541_SCB_EZI2C01.cyprj" -d CY8C6247BZI-D54 -s "C:\Users\Joris\OneDrive\Documenten\PSoC Creator\I2CTest2\CE220541_SCB_EZI2C01.cydsn\Generated_Source\PSoC6" -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+Error: fit.M0051: The given PDL path '' is invalid. Unable to find required PDSC file.
+Error: fit.M0050: The fitter aborted due to errors, please address all errors and rebuild. (App=cydsfit)
+--------------- Build Failed: 10/26/2023 18:52:39 ---------------

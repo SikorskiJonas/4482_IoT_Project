@@ -1,0 +1,5 @@
+Loading plugins phase: Elapsed time ==> 0s.579ms
+<CYPRESSTAG name="CyDsfit arguments...">
+cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p C:\Users\Joris\OneDrive\Documenten\PSoC Creator\I2CTest2\CE220541_SCB_EZI2C01.cydsn\CE220541_SCB_EZI2C01.cyprj -d CY8C6247BZI-D54 -s C:\Users\Joris\OneDrive\Documenten\PSoC Creator\I2CTest2\CE220541_SCB_EZI2C01.cydsn\Generated_Source\PSoC6 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+</CYPRESSTAG>
+Error: fit.M0051: The given PDL path '' is invalid. Unable to find required PDSC file.

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2CTest2</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\TopDesign</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\Pins</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\Analog</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\DMA</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\Clocks</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\Interrupts</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\System</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\Directives</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM0p (Core 0)</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM0p (Core 0)\Header Files</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM0p (Core 0)\Source Files</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM4 (Core 1)</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM4 (Core 1)\Header Files</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM4 (Core 1)\Source Files</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\Shared Files</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\Shared Files\cyapicallbacks.h</v>
+<v>I2CTest2\CE220541.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2CTest2</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\TopDesign</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\Pins</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\Analog</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\DMA</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\Clocks</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\Interrupts</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\System</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.cydwr\Directives</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM0p (Core 0)</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM0p (Core 0)\Header Files</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM0p (Core 0)\Source Files</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM4 (Core 1)</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM4 (Core 1)\Header Files</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM4 (Core 1)\Source Files</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\Shared Files</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\Shared Files\cyapicallbacks.h</v>
+<v>I2CTest2\CE220541.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2CTest2</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\TopDesign</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2CTest2</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\TopDesign</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2CTest2</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p\ARM_GCC_541</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p\ARM_GCC_541\Debug</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.elf</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.hex</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.map</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4\ARM_GCC_541</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4\ARM_GCC_541\Debug</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.elf</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.hex</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.map</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.gpdsc</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.rpt</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2CTest2</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p\ARM_GCC_541</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p\ARM_GCC_541\Debug</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.elf</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.hex</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM0p\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.map</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4\ARM_GCC_541</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4\ARM_GCC_541\Debug</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.elf</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.hex</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CortexM4\ARM_GCC_541\Debug\CE220541_SCB_EZI2C01.map</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.gpdsc</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01.rpt</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\CE220541_SCB_EZI2C01_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2CTest2</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\PSoC 6 Architecture TRM</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\PSoC 62 Family Datasheet</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\System Reference Guides</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\GPIO_PDL_v1_0</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\SCB_EZI2C_PDL_v2_0.pdf</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\SysClk_PDL_v1_0.pdf</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\TCPWM_PWM_PDL_v1_0</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\TCPWM_PWM_PDL_v1_0\TCPWM_PWM_PDL_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2CTest2</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\PSoC 6 Architecture TRM</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\PSoC 62 Family Datasheet</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\System Reference Guides</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\GPIO_PDL_v1_0</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\SCB_EZI2C_PDL_v2_0.pdf</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\SysClk_PDL_v1_0.pdf</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\TCPWM_PWM_PDL_v1_0</v>
+<v>I2CTest2\CE220541_SCB_EZI2C01\TCPWM_PWM_PDL_v1_0\TCPWM_PWM_PDL_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\CE220541_SCB_EZI2C01.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\CE220541_SCB_EZI2C01.cydsn\CE220541_SCB_EZI2C01.cydwr" />
+<name v=".\CE220541_SCB_EZI2C01.cydsn\main_cm0p.c" />
+<name v=".\CE220541_SCB_EZI2C01.cydsn\main_cm4.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1098, 495" SelectedTabbedMdiWindow="571a0350-e76d-4c8f-877b-c09effcbf9ea"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="321ea7ba-7d77-4cca-994f-f0cb33f4c2c6" /><DocumentWindow Key="C:\Users\Joris\OneDrive\Documenten\PSoC Creator\I2CTest2\CE220541_SCB_EZI2C01.cydsn\TopDesign\TopDesign.cysch" Guid="a13ec62a-5f0f-4dae-88e8-462b28fe5017" /><DocumentWindow Key="C:\Users\Joris\OneDrive\Documenten\PSoC Creator\I2CTest2\CE220541_SCB_EZI2C01.cydsn\CE220541_SCB_EZI2C01.cydwr" Guid="c54b5ef8-c83d-4357-a4e1-f03c009a12da" /><DocumentWindow Key="C:\Users\Joris\OneDrive\Documenten\PSoC Creator\I2CTest2\CE220541_SCB_EZI2C01.cydsn\main_cm0p.c" Guid="f7038169-6144-4c68-8586-9322e0174ee9" /><DocumentWindow Key="C:\Users\Joris\OneDrive\Documenten\PSoC Creator\I2CTest2\CE220541_SCB_EZI2C01.cydsn\main_cm4.c" Guid="571a0350-e76d-4c8f-877b-c09effcbf9ea" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

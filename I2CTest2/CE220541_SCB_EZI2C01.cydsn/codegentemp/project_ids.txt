@@ -1,0 +1,6 @@
+C:\Users\Joris\OneDrive\Documenten\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|f6a9f18a-0940-4bd8-a27a-262bfa359774
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|a36ef891-ee05-499e-9f9a-9ac07304f836
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|7f699488-1ec6-4beb-8871-dceec2e005fe
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|7d66bbbd-6429-48bb-8cdb-10683f899fb1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e9ebe61c-43ba-4ec5-a091-139424fc11c0
+C:\Users\Joris\OneDrive\Documenten\PSoC Creator\I2CTest2\CE220541_SCB_EZI2C01.cydsn\CE220541_SCB_EZI2C01.cyprj|4b9466be-bc54-4a8a-96f3-cffa3942e8aa

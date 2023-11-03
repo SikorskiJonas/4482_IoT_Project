@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE220541_SCB_EZI2C" WorkspaceName="CE220541.cywrk">
+  <Version>1.10</Version>
+  <Keyword>TCPWM_PWM_PDL</Keyword>
+  <Keyword>SCB_EZI2C_PDL</Keyword>
+  <Keyword>EZI2C</Keyword>
+  <Keyword>I2C Slave</Keyword>
+  <Keyword>Color Mixing</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>This code example demonstrates the implementation of an EZI2C Slave using the SCB Component on a PSoC 6 device.
+  It also demonstrates how to control the color and intensity of an RGB LED using TCPWM Components.</Description>
+  <DeviceFilter>PSoC 60</DeviceFilter>
+  <DeviceFilter>PSoC 61</DeviceFilter>
+  <DeviceFilter>PSoC 62</DeviceFilter>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE220541.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>
